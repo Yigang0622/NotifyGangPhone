@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotifyGangPhone</string>
+    <string name="bark_key_pref">BarkKeyStore</string>
+    <string name="preference_file_key">life.yigang.notifiygangphone.PREFERENCE_FILE_KEY</string>
+</resources>
